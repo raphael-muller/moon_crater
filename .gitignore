@@ -1,0 +1,6 @@
+
+# PyCharm
+.idea/
+
+# Données lourdes
+/data/moon_tiles/
